@@ -1,0 +1,29 @@
+/* .style{
+    margin:2px;
+    display: flex;
+    padding: 2rem;
+} */
+
+.btnClose{
+    top:3.9rem;
+    /* left:25rem; */
+    width: 41px !important;
+}
+
+button.dark{
+    background-color: blueviolet;
+    color:pink;
+}
+
+button.light{
+    background-color: rgb(185, 160, 209);
+    color:rgb(160, 48, 66);
+}
+
+span.dark{
+    color: rgb(34, 11, 149);
+}
+
+span.light{
+    color: black;
+}
